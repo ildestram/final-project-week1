@@ -140,3 +140,21 @@ figure img {
     width:100%;
 }
 
+aside {
+    margin-bottom:60px;
+}
+
+footer {
+    background-color:#25a2c3;
+    text-align: center;
+    padding-top:30px;
+    padding-bottom:30px;
+}
+
+footer h2 {
+    font-weight:bold;
+    font-size:30px;
+    color:white;
+    padding-bottom:15px;
+}
+
