@@ -24,7 +24,7 @@ h1 {
     color:#25a2c3;
     font-weight:bold;
     line-height:1.5;
-    font-size:35px;
+    font-size:40px;
 }
 
 nav div {
@@ -113,7 +113,7 @@ blockquote {
 .h3-text {
     text-align: center;
     font-weight:bold;
-    font-size:15px;
+    font-size:18px;
     color:#25a2c3;
     padding-top:20px;
 }
@@ -148,13 +148,37 @@ footer {
     background-color:#25a2c3;
     text-align: center;
     padding-top:30px;
-    padding-bottom:30px;
+    padding-bottom:70px;
 }
 
 footer h2 {
     font-weight:bold;
-    font-size:30px;
+    font-size:40px;
     color:white;
     padding-bottom:15px;
+
 }
+
+a {
+    color:white;
+}
+
+footer p {
+    color:#c8e7f0;
+}
+
+.li-only {
+    color:#c8e7f0;
+}
+
+footer a {
+    color:#c8e7f0;
+}
+
+.hr-class {
+    margin-right:120px;
+    margin-left:120px;
+}
+
+
 
